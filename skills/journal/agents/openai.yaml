@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recovery Journal"
+  short_description: "Draft and manage opt-in journal entries"
+  default_prompt: "Use $journal to draft a journal entry without saving it."
