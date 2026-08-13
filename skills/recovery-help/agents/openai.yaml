@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recovery Help"
+  short_description: "Start Recovery and route practical requests"
+  default_prompt: "Use $recovery-help to show what Recovery can help me with."

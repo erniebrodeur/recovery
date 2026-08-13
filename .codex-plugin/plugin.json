@@ -1,0 +1,21 @@
+{
+  "name": "recovery",
+  "version": "0.1.0",
+  "description": "A user-directed recovery operations assistant for adults in the US and Canada.",
+  "author": {
+    "name": "Recovery contributors"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Recovery",
+    "shortDescription": "Practical, pathway-neutral recovery support.",
+    "longDescription": "Recovery offers privacy-aware orientation, practical planning, journal drafting, ordinary conversation, and routing to current recovery resources without imposing a recovery philosophy.",
+    "developerName": "Recovery contributors",
+    "category": "Lifestyle",
+    "capabilities": [
+      "Guidance",
+      "Conversation"
+    ],
+    "defaultPrompt": "Show me what Recovery can help with."
+  }
+}
