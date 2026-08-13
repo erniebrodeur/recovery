@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find a Meeting"
+  short_description: "Find current recovery meetings by preference"
+  default_prompt: "Use $find-a-meeting to find a current meeting that fits my preferences."

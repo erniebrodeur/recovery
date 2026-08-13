@@ -9,13 +9,14 @@
   "interface": {
     "displayName": "Recovery",
     "shortDescription": "Practical, pathway-neutral recovery support.",
-    "longDescription": "Recovery offers privacy-aware orientation, practical planning, journal drafting, ordinary conversation, and routing to current recovery resources without imposing a recovery philosophy.",
+    "longDescription": "Recovery offers privacy-aware orientation, practical planning, journal drafting and storage, live recovery-meeting searches, and ordinary conversation without imposing a recovery philosophy.",
     "developerName": "Recovery contributors",
     "category": "Lifestyle",
     "capabilities": [
       "Guidance",
       "Conversation",
-      "Write"
+      "Write",
+      "Search"
     ],
     "defaultPrompt": "Show me what Recovery can help with."
   }
