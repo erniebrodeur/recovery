@@ -93,8 +93,15 @@ When there are signs of overdose, dangerous withdrawal, self-harm, violence, sei
 
 ## Not yet decided
 
-- Product name and visual identity
 - English-only launch versus English and French
 - Exact optional memory storage mechanism
 - Plugin skill structure and optional integrations
 - Resource verification and refresh process
+
+## Visual identity
+
+- Product name: Recovery
+- Primary color: deep teal `#0D6764`
+- Accent color: amber `#D98B22`
+- Mark: a rounded geometric `R` with a single amber point at the top of the stem
+- Use flat vector geometry without gradients, shadows, arrows, or recovery-program symbolism

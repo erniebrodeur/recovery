@@ -1,16 +1,28 @@
 {
   "name": "recovery",
   "version": "0.1.0",
-  "description": "A user-directed recovery operations assistant for adults in the US and Canada.",
+  "description": "Practical, pathway-neutral recovery support for adults in the US and Canada.",
   "author": {
-    "name": "Recovery contributors"
+    "name": "Ernie Brodeur",
+    "email": "ebrodeur@ujami.net",
+    "url": "https://github.com/erniebrodeur"
   },
+  "homepage": "https://erniebrodeur.github.io/recovery/",
+  "repository": "https://github.com/erniebrodeur/recovery",
+  "license": "GPL-3.0-only",
+  "keywords": [
+    "recovery",
+    "meetings",
+    "resources",
+    "journal",
+    "harm-reduction"
+  ],
   "skills": "./skills/",
   "interface": {
     "displayName": "Recovery",
     "shortDescription": "Practical, pathway-neutral recovery support.",
-    "longDescription": "Recovery offers privacy-aware orientation, practical planning, journal drafting and storage, live recovery-meeting searches, and ordinary conversation without imposing a recovery philosophy.",
-    "developerName": "Recovery contributors",
+    "longDescription": "Recovery helps adults find current US and Canadian meetings and practical resources, draft or explicitly save journal entries, plan concrete next steps, and have ordinary conversation without imposing a recovery philosophy.",
+    "developerName": "Ernie Brodeur",
     "category": "Lifestyle",
     "capabilities": [
       "Guidance",
@@ -18,6 +30,16 @@
       "Write",
       "Search"
     ],
-    "defaultPrompt": "Show me what Recovery can help with."
+    "websiteURL": "https://erniebrodeur.github.io/recovery/",
+    "privacyPolicyURL": "https://erniebrodeur.github.io/recovery/#privacy",
+    "defaultPrompt": [
+      "Find an open, non-12-step meeting near me tonight.",
+      "Find practical recovery resources in my state or province.",
+      "Turn these notes into a journal entry. Do not save it."
+    ],
+    "brandColor": "#0D6764",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo-dark.png"
   }
 }

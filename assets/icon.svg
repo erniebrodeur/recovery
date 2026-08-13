@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Recovery icon</title>
+  <desc id="desc">A geometric letter R in teal with a small amber point.</desc>
+  <rect width="512" height="512" rx="104" fill="#F7F7F3"/>
+  <path d="M150 394V118H272C334 118 374 155 374 210C374 265 334 302 272 302H150"
+        fill="none" stroke="#0D6764" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M270 302L376 394" fill="none" stroke="#0D6764" stroke-width="38" stroke-linecap="round"/>
+  <circle cx="150" cy="118" r="20" fill="#D98B22"/>
+</svg>
