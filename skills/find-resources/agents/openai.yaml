@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Resources"
+  short_description: "Find current practical recovery resources"
+  default_prompt: "Use $find-resources to find current recovery-related services that fit my needs."
